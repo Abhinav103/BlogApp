@@ -1,1 +1,1 @@
-Blog App is Not Full Build Yet
+Work in Progress
